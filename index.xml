@@ -1,0 +1,13 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Minglu Zhao</title>
+    <link>https://mingluzhao.github.io/about/</link>
+    <description>Recent content on Minglu Zhao</description>
+    
+    <language>en-us</language>
+    
+    <atom:link href="https://mingluzhao.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
